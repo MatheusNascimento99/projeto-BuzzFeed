@@ -1,6 +1,9 @@
 # ProjetoBuzzFeed
 Fala, galera!
-Esse foi mais um projeto utilizando Angular como framework. Nele, desenvolvemos uma espécie de quiz para descobrir se você seria um vilão ou um herói. Utilizamos uma boa dose de lógica nas funções, mantendo a componentização livre e flexível, de acordo com as diretrizes do Angular. Vai lá e divirta-se um pouco!
+Esse foi mais um projeto utilizando Angular como framework. Nele, desenvolvemos uma espécie de quiz para descobrir se você seria um vilão ou um herói. Utilizamos uma boa dose de lógica nas funções, mantendo a componentização livre e flexível, de acordo com as diretrizes do Angular.
+<br>
+Vai lá e divirta-se um pouco<br>
+https://projeto-buzz-feed-eight.vercel.app/
 <br><br>
 ![image](https://github.com/MatheusNascimento99/projeto-BuzzFeed/assets/139829100/13971a6b-b2ab-4127-806e-51a0ae66484a)
 <br>
